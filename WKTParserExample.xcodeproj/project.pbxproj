@@ -86,8 +86,6 @@
 		42C1255616CD78E800F0AAEF = {
 			isa = PBXGroup;
 			children = (
-				42C125CC16CD7F7C00F0AAEF /* CoreLocation.framework */,
-				42C125CA16CD7F7400F0AAEF /* MapKit.framework */,
 				42C125C516CD7EC200F0AAEF /* WKTParser */,
 				42C1256B16CD78E800F0AAEF /* WKTParserExample */,
 				42C1258C16CD796600F0AAEF /* WKTParserTest */,
@@ -109,6 +107,8 @@
 		42C1256416CD78E800F0AAEF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				42C125CC16CD7F7C00F0AAEF /* CoreLocation.framework */,
+				42C125CA16CD7F7400F0AAEF /* MapKit.framework */,
 				42C1256516CD78E800F0AAEF /* UIKit.framework */,
 				42C1256716CD78E800F0AAEF /* Foundation.framework */,
 				42C1256916CD78E800F0AAEF /* CoreGraphics.framework */,
