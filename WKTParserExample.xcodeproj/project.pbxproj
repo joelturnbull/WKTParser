@@ -1,980 +1,475 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>234921258013433DADB4A692</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>libPods-WKTParserTest.a</string>
-			<key>path</key>
-			<string>libPods-WKTParserTest.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>42C1255616CD78E800F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1256B16CD78E800F0AAEF</string>
-				<string>42C1258C16CD796600F0AAEF</string>
-				<string>42C1256416CD78E800F0AAEF</string>
-				<string>42C1256216CD78E800F0AAEF</string>
-				<string>C7724BA7BFC7420C893585B7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1255816CD78E800F0AAEF</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>CLASSPREFIX</key>
-				<string>WKT</string>
-				<key>LastUpgradeCheck</key>
-				<string>0450</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>Joel Turnbull</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>42C1255B16CD78E800F0AAEF</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>42C1255616CD78E800F0AAEF</string>
-			<key>productRefGroup</key>
-			<string>42C1256216CD78E800F0AAEF</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>42C1256016CD78E800F0AAEF</string>
-				<string>42C1258616CD796600F0AAEF</string>
-			</array>
-		</dict>
-		<key>42C1255B16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>42C1257D16CD78E800F0AAEF</string>
-				<string>42C1257E16CD78E800F0AAEF</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>42C1255D16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42C1257216CD78E800F0AAEF</string>
-				<string>42C1257616CD78E800F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>42C1255E16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42C1256616CD78E800F0AAEF</string>
-				<string>42C1256816CD78E800F0AAEF</string>
-				<string>42C1256A16CD78E800F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>42C1255F16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42C1257016CD78E800F0AAEF</string>
-				<string>42C1257816CD78E800F0AAEF</string>
-				<string>42C1257A16CD78E800F0AAEF</string>
-				<string>42C1257C16CD78E800F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>42C1256016CD78E800F0AAEF</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>42C1257F16CD78E800F0AAEF</string>
-			<key>buildPhases</key>
-			<array>
-				<string>42C1255D16CD78E800F0AAEF</string>
-				<string>42C1255E16CD78E800F0AAEF</string>
-				<string>42C1255F16CD78E800F0AAEF</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>WKTParserExample</string>
-			<key>productName</key>
-			<string>WKTParserExample</string>
-			<key>productReference</key>
-			<string>42C1256116CD78E800F0AAEF</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>42C1256116CD78E800F0AAEF</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>WKTParserExample.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>42C1256216CD78E800F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1256116CD78E800F0AAEF</string>
-				<string>42C1258716CD796600F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1256416CD78E800F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1256516CD78E800F0AAEF</string>
-				<string>42C1256716CD78E800F0AAEF</string>
-				<string>42C1256916CD78E800F0AAEF</string>
-				<string>42C1258816CD796600F0AAEF</string>
-				<string>234921258013433DADB4A692</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1256516CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>UIKit.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/UIKit.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>42C1256616CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1256516CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1256716CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>42C1256816CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1256716CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1256916CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>CoreGraphics.framework</string>
-			<key>path</key>
-			<string>System/Library/Frameworks/CoreGraphics.framework</string>
-			<key>sourceTree</key>
-			<string>SDKROOT</string>
-		</dict>
-		<key>42C1256A16CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1256916CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1256B16CD78E800F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1257416CD78E800F0AAEF</string>
-				<string>42C1257516CD78E800F0AAEF</string>
-				<string>42C1256C16CD78E800F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>WKTParserExample</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1256C16CD78E800F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1256D16CD78E800F0AAEF</string>
-				<string>42C1256E16CD78E800F0AAEF</string>
-				<string>42C1257116CD78E800F0AAEF</string>
-				<string>42C1257316CD78E800F0AAEF</string>
-				<string>42C1257716CD78E800F0AAEF</string>
-				<string>42C1257916CD78E800F0AAEF</string>
-				<string>42C1257B16CD78E800F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1256D16CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>WKTParserExample-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1256E16CD78E800F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1256F16CD78E800F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1256F16CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.strings</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257016CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1256E16CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1257116CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>main.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257216CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1257116CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1257316CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WKTParserExample-Prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257416CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WKTAppDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257516CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>WKTAppDelegate.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257616CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1257516CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1257716CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>image.png</string>
-			<key>path</key>
-			<string>Default.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257816CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1257716CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1257916CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>image.png</string>
-			<key>path</key>
-			<string>Default@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257A16CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1257916CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1257B16CD78E800F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>image.png</string>
-			<key>path</key>
-			<string>Default-568h@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1257C16CD78E800F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1257B16CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1257D16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.0</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>42C1257E16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>6.0</string>
-				<key>OTHER_CFLAGS</key>
-				<string>-DNS_BLOCK_ASSERTIONS=1</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>42C1257F16CD78E800F0AAEF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>42C1258016CD78E800F0AAEF</string>
-				<string>42C1258116CD78E800F0AAEF</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>42C1258016CD78E800F0AAEF</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>WKTParserExample/WKTParserExample-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>WKTParserExample/WKTParserExample-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>42C1258116CD78E800F0AAEF</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>WKTParserExample/WKTParserExample-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>WKTParserExample/WKTParserExample-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>app</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>42C1258216CD796600F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42C1259416CD796600F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>42C1258316CD796600F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42C1258916CD796600F0AAEF</string>
-				<string>42C1258A16CD796600F0AAEF</string>
-				<string>42C1258B16CD796600F0AAEF</string>
-				<string>9D498CBB04214D35914E4B44</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>42C1258416CD796600F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>42C1259116CD796600F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>42C1258516CD796600F0AAEF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string># Run the unit tests in this test bundle.
-"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests"
-</string>
-		</dict>
-		<key>42C1258616CD796600F0AAEF</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>42C1259616CD796600F0AAEF</string>
-			<key>buildPhases</key>
-			<array>
-				<string>42C1258216CD796600F0AAEF</string>
-				<string>42C1258316CD796600F0AAEF</string>
-				<string>42C1258416CD796600F0AAEF</string>
-				<string>42C1258516CD796600F0AAEF</string>
-				<string>614D537F024146CFB4B3E93A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>WKTParserTest</string>
-			<key>productName</key>
-			<string>WKTParserTest</string>
-			<key>productReference</key>
-			<string>42C1258716CD796600F0AAEF</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
-		</dict>
-		<key>42C1258716CD796600F0AAEF</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>WKTParserTest.octest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>42C1258816CD796600F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>SenTestingKit.framework</string>
-			<key>path</key>
-			<string>Library/Frameworks/SenTestingKit.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>42C1258916CD796600F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1258816CD796600F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1258A16CD796600F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1256516CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1258B16CD796600F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1256716CD78E800F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1258C16CD796600F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1259216CD796600F0AAEF</string>
-				<string>42C1259316CD796600F0AAEF</string>
-				<string>42C1258D16CD796600F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>WKTParserTest</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1258D16CD796600F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1258E16CD796600F0AAEF</string>
-				<string>42C1258F16CD796600F0AAEF</string>
-				<string>42C1259516CD796600F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1258E16CD796600F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>WKTParserTest-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1258F16CD796600F0AAEF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>42C1259016CD796600F0AAEF</string>
-			</array>
-			<key>isa</key>
-			<string>PBXVariantGroup</string>
-			<key>name</key>
-			<string>InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1259016CD796600F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.strings</string>
-			<key>name</key>
-			<string>en</string>
-			<key>path</key>
-			<string>en.lproj/InfoPlist.strings</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1259116CD796600F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1258F16CD796600F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1259216CD796600F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WKTParserTest.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1259316CD796600F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>WKTParserTest.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1259416CD796600F0AAEF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>42C1259316CD796600F0AAEF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>42C1259516CD796600F0AAEF</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WKTParserTest-Prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>42C1259616CD796600F0AAEF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>42C1259716CD796600F0AAEF</string>
-				<string>42C1259816CD796600F0AAEF</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>42C1259716CD796600F0AAEF</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C7724BA7BFC7420C893585B7</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>"$(SDKROOT)/Developer/Library/Frameworks"</string>
-					<string>"$(DEVELOPER_LIBRARY_DIR)/Frameworks"</string>
-				</array>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>WKTParserTest/WKTParserTest-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>WKTParserTest/WKTParserTest-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>octest</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>42C1259816CD796600F0AAEF</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>C7724BA7BFC7420C893585B7</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>"$(SDKROOT)/Developer/Library/Frameworks"</string>
-					<string>"$(DEVELOPER_LIBRARY_DIR)/Frameworks"</string>
-				</array>
-				<key>GCC_PRECOMPILE_PREFIX_HEADER</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>WKTParserTest/WKTParserTest-Prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>WKTParserTest/WKTParserTest-Info.plist</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>octest</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>614D537F024146CFB4B3E93A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Pods-WKTParserTest-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>1</string>
-		</dict>
-		<key>9D498CBB04214D35914E4B44</key>
-		<dict>
-			<key>fileRef</key>
-			<string>234921258013433DADB4A692</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict/>
-		</dict>
-		<key>C7724BA7BFC7420C893585B7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-WKTParserTest.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Pods-WKTParserTest.xcconfig</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>42C1255816CD78E800F0AAEF</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		42C1256616CD78E800F0AAEF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C1256516CD78E800F0AAEF /* UIKit.framework */; };
+		42C1256816CD78E800F0AAEF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C1256716CD78E800F0AAEF /* Foundation.framework */; };
+		42C1256A16CD78E800F0AAEF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C1256916CD78E800F0AAEF /* CoreGraphics.framework */; };
+		42C1257016CD78E800F0AAEF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 42C1256E16CD78E800F0AAEF /* InfoPlist.strings */; };
+		42C1257216CD78E800F0AAEF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C1257116CD78E800F0AAEF /* main.m */; };
+		42C1257616CD78E800F0AAEF /* WKTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C1257516CD78E800F0AAEF /* WKTAppDelegate.m */; };
+		42C1257816CD78E800F0AAEF /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 42C1257716CD78E800F0AAEF /* Default.png */; };
+		42C1257A16CD78E800F0AAEF /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 42C1257916CD78E800F0AAEF /* Default@2x.png */; };
+		42C1257C16CD78E800F0AAEF /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 42C1257B16CD78E800F0AAEF /* Default-568h@2x.png */; };
+		42C1258916CD796600F0AAEF /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C1258816CD796600F0AAEF /* SenTestingKit.framework */; };
+		42C1258A16CD796600F0AAEF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C1256516CD78E800F0AAEF /* UIKit.framework */; };
+		42C1258B16CD796600F0AAEF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C1256716CD78E800F0AAEF /* Foundation.framework */; };
+		42C1259116CD796600F0AAEF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 42C1258F16CD796600F0AAEF /* InfoPlist.strings */; };
+		42C1259416CD796600F0AAEF /* WKTParserTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C1259316CD796600F0AAEF /* WKTParserTest.m */; };
+		42C125CB16CD7F7400F0AAEF /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C125CA16CD7F7400F0AAEF /* MapKit.framework */; };
+		42C125CD16CD7F7C00F0AAEF /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 42C125CC16CD7F7C00F0AAEF /* CoreLocation.framework */; };
+		42C125D016CD804D00F0AAEF /* WKTParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 42C125CF16CD804D00F0AAEF /* WKTParser.m */; };
+		9D498CBB04214D35914E4B44 /* libPods-WKTParserTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 234921258013433DADB4A692 /* libPods-WKTParserTest.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		234921258013433DADB4A692 /* libPods-WKTParserTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WKTParserTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		42C1256116CD78E800F0AAEF /* WKTParserExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WKTParserExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		42C1256516CD78E800F0AAEF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		42C1256716CD78E800F0AAEF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		42C1256916CD78E800F0AAEF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		42C1256D16CD78E800F0AAEF /* WKTParserExample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WKTParserExample-Info.plist"; sourceTree = "<group>"; };
+		42C1256F16CD78E800F0AAEF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		42C1257116CD78E800F0AAEF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		42C1257316CD78E800F0AAEF /* WKTParserExample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WKTParserExample-Prefix.pch"; sourceTree = "<group>"; };
+		42C1257416CD78E800F0AAEF /* WKTAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKTAppDelegate.h; sourceTree = "<group>"; };
+		42C1257516CD78E800F0AAEF /* WKTAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKTAppDelegate.m; sourceTree = "<group>"; };
+		42C1257716CD78E800F0AAEF /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		42C1257916CD78E800F0AAEF /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		42C1257B16CD78E800F0AAEF /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		42C1258716CD796600F0AAEF /* WKTParserTest.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WKTParserTest.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		42C1258816CD796600F0AAEF /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		42C1258E16CD796600F0AAEF /* WKTParserTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WKTParserTest-Info.plist"; sourceTree = "<group>"; };
+		42C1259016CD796600F0AAEF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		42C1259216CD796600F0AAEF /* WKTParserTest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WKTParserTest.h; sourceTree = "<group>"; };
+		42C1259316CD796600F0AAEF /* WKTParserTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WKTParserTest.m; sourceTree = "<group>"; };
+		42C1259516CD796600F0AAEF /* WKTParserTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "WKTParserTest-Prefix.pch"; sourceTree = "<group>"; };
+		42C125CA16CD7F7400F0AAEF /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		42C125CC16CD7F7C00F0AAEF /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		42C125CE16CD804D00F0AAEF /* WKTParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WKTParser.h; sourceTree = "<group>"; };
+		42C125CF16CD804D00F0AAEF /* WKTParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WKTParser.m; sourceTree = "<group>"; };
+		C7724BA7BFC7420C893585B7 /* Pods-WKTParserTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WKTParserTest.xcconfig"; path = "Pods/Pods-WKTParserTest.xcconfig"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		42C1255E16CD78E800F0AAEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C125CD16CD7F7C00F0AAEF /* CoreLocation.framework in Frameworks */,
+				42C125CB16CD7F7400F0AAEF /* MapKit.framework in Frameworks */,
+				42C1256616CD78E800F0AAEF /* UIKit.framework in Frameworks */,
+				42C1256816CD78E800F0AAEF /* Foundation.framework in Frameworks */,
+				42C1256A16CD78E800F0AAEF /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42C1258316CD796600F0AAEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C1258916CD796600F0AAEF /* SenTestingKit.framework in Frameworks */,
+				42C1258A16CD796600F0AAEF /* UIKit.framework in Frameworks */,
+				42C1258B16CD796600F0AAEF /* Foundation.framework in Frameworks */,
+				9D498CBB04214D35914E4B44 /* libPods-WKTParserTest.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		42C1255616CD78E800F0AAEF = {
+			isa = PBXGroup;
+			children = (
+				42C125CC16CD7F7C00F0AAEF /* CoreLocation.framework */,
+				42C125CA16CD7F7400F0AAEF /* MapKit.framework */,
+				42C125C516CD7EC200F0AAEF /* WKTParser */,
+				42C1256B16CD78E800F0AAEF /* WKTParserExample */,
+				42C1258C16CD796600F0AAEF /* WKTParserTest */,
+				42C1256416CD78E800F0AAEF /* Frameworks */,
+				42C1256216CD78E800F0AAEF /* Products */,
+				C7724BA7BFC7420C893585B7 /* Pods-WKTParserTest.xcconfig */,
+			);
+			sourceTree = "<group>";
+		};
+		42C1256216CD78E800F0AAEF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				42C1256116CD78E800F0AAEF /* WKTParserExample.app */,
+				42C1258716CD796600F0AAEF /* WKTParserTest.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		42C1256416CD78E800F0AAEF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				42C1256516CD78E800F0AAEF /* UIKit.framework */,
+				42C1256716CD78E800F0AAEF /* Foundation.framework */,
+				42C1256916CD78E800F0AAEF /* CoreGraphics.framework */,
+				42C1258816CD796600F0AAEF /* SenTestingKit.framework */,
+				234921258013433DADB4A692 /* libPods-WKTParserTest.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		42C1256B16CD78E800F0AAEF /* WKTParserExample */ = {
+			isa = PBXGroup;
+			children = (
+				42C1257416CD78E800F0AAEF /* WKTAppDelegate.h */,
+				42C1257516CD78E800F0AAEF /* WKTAppDelegate.m */,
+				42C1256C16CD78E800F0AAEF /* Supporting Files */,
+			);
+			path = WKTParserExample;
+			sourceTree = "<group>";
+		};
+		42C1256C16CD78E800F0AAEF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				42C1256D16CD78E800F0AAEF /* WKTParserExample-Info.plist */,
+				42C1256E16CD78E800F0AAEF /* InfoPlist.strings */,
+				42C1257116CD78E800F0AAEF /* main.m */,
+				42C1257316CD78E800F0AAEF /* WKTParserExample-Prefix.pch */,
+				42C1257716CD78E800F0AAEF /* Default.png */,
+				42C1257916CD78E800F0AAEF /* Default@2x.png */,
+				42C1257B16CD78E800F0AAEF /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		42C1258C16CD796600F0AAEF /* WKTParserTest */ = {
+			isa = PBXGroup;
+			children = (
+				42C1259216CD796600F0AAEF /* WKTParserTest.h */,
+				42C1259316CD796600F0AAEF /* WKTParserTest.m */,
+				42C1258D16CD796600F0AAEF /* Supporting Files */,
+			);
+			path = WKTParserTest;
+			sourceTree = "<group>";
+		};
+		42C1258D16CD796600F0AAEF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				42C1258E16CD796600F0AAEF /* WKTParserTest-Info.plist */,
+				42C1258F16CD796600F0AAEF /* InfoPlist.strings */,
+				42C1259516CD796600F0AAEF /* WKTParserTest-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		42C125C516CD7EC200F0AAEF /* WKTParser */ = {
+			isa = PBXGroup;
+			children = (
+				42C125CE16CD804D00F0AAEF /* WKTParser.h */,
+				42C125CF16CD804D00F0AAEF /* WKTParser.m */,
+			);
+			path = WKTParser;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		42C1256016CD78E800F0AAEF /* WKTParserExample */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42C1257F16CD78E800F0AAEF /* Build configuration list for PBXNativeTarget "WKTParserExample" */;
+			buildPhases = (
+				42C1255D16CD78E800F0AAEF /* Sources */,
+				42C1255E16CD78E800F0AAEF /* Frameworks */,
+				42C1255F16CD78E800F0AAEF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WKTParserExample;
+			productName = WKTParserExample;
+			productReference = 42C1256116CD78E800F0AAEF /* WKTParserExample.app */;
+			productType = "com.apple.product-type.application";
+		};
+		42C1258616CD796600F0AAEF /* WKTParserTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42C1259616CD796600F0AAEF /* Build configuration list for PBXNativeTarget "WKTParserTest" */;
+			buildPhases = (
+				42C1258216CD796600F0AAEF /* Sources */,
+				42C1258316CD796600F0AAEF /* Frameworks */,
+				42C1258416CD796600F0AAEF /* Resources */,
+				42C1258516CD796600F0AAEF /* ShellScript */,
+				614D537F024146CFB4B3E93A /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WKTParserTest;
+			productName = WKTParserTest;
+			productReference = 42C1258716CD796600F0AAEF /* WKTParserTest.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		42C1255816CD78E800F0AAEF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = WKT;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Joel Turnbull";
+			};
+			buildConfigurationList = 42C1255B16CD78E800F0AAEF /* Build configuration list for PBXProject "WKTParserExample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 42C1255616CD78E800F0AAEF;
+			productRefGroup = 42C1256216CD78E800F0AAEF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				42C1256016CD78E800F0AAEF /* WKTParserExample */,
+				42C1258616CD796600F0AAEF /* WKTParserTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		42C1255F16CD78E800F0AAEF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C1257016CD78E800F0AAEF /* InfoPlist.strings in Resources */,
+				42C1257816CD78E800F0AAEF /* Default.png in Resources */,
+				42C1257A16CD78E800F0AAEF /* Default@2x.png in Resources */,
+				42C1257C16CD78E800F0AAEF /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42C1258416CD796600F0AAEF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C1259116CD796600F0AAEF /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		42C1258516CD796600F0AAEF /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+		614D537F024146CFB4B3E93A /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-WKTParserTest-resources.sh\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		42C1255D16CD78E800F0AAEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C1257216CD78E800F0AAEF /* main.m in Sources */,
+				42C1257616CD78E800F0AAEF /* WKTAppDelegate.m in Sources */,
+				42C125D016CD804D00F0AAEF /* WKTParser.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42C1258216CD796600F0AAEF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				42C1259416CD796600F0AAEF /* WKTParserTest.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		42C1256E16CD78E800F0AAEF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				42C1256F16CD78E800F0AAEF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		42C1258F16CD796600F0AAEF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				42C1259016CD796600F0AAEF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		42C1257D16CD78E800F0AAEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		42C1257E16CD78E800F0AAEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		42C1258016CD78E800F0AAEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WKTParserExample/WKTParserExample-Prefix.pch";
+				INFOPLIST_FILE = "WKTParserExample/WKTParserExample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		42C1258116CD78E800F0AAEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WKTParserExample/WKTParserExample-Prefix.pch";
+				INFOPLIST_FILE = "WKTParserExample/WKTParserExample-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		42C1259716CD796600F0AAEF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7724BA7BFC7420C893585B7 /* Pods-WKTParserTest.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/WKTParserExample.app/WKTParserExample";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WKTParserTest/WKTParserTest-Prefix.pch";
+				INFOPLIST_FILE = "WKTParserTest/WKTParserTest-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		42C1259816CD796600F0AAEF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7724BA7BFC7420C893585B7 /* Pods-WKTParserTest.xcconfig */;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/WKTParserExample.app/WKTParserExample";
+				FRAMEWORK_SEARCH_PATHS = (
+					"\"$(SDKROOT)/Developer/Library/Frameworks\"",
+					"\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "WKTParserTest/WKTParserTest-Prefix.pch";
+				INFOPLIST_FILE = "WKTParserTest/WKTParserTest-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		42C1255B16CD78E800F0AAEF /* Build configuration list for PBXProject "WKTParserExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42C1257D16CD78E800F0AAEF /* Debug */,
+				42C1257E16CD78E800F0AAEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42C1257F16CD78E800F0AAEF /* Build configuration list for PBXNativeTarget "WKTParserExample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42C1258016CD78E800F0AAEF /* Debug */,
+				42C1258116CD78E800F0AAEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42C1259616CD796600F0AAEF /* Build configuration list for PBXNativeTarget "WKTParserTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42C1259716CD796600F0AAEF /* Debug */,
+				42C1259816CD796600F0AAEF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42C1255816CD78E800F0AAEF /* Project object */;
+}
