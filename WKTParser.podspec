@@ -4,7 +4,6 @@ Pod::Spec.new do |s|
   s.summary      = "A library for parsing geometries from Well-Known-Text (WKT)."
   s.homepage     = "https://github.com/joelturnbull/WKTParser"
   s.license      = 'MIT'
-  s.author       = { "Joel Turnbull" => "joelbywan@gmail.com" }
   s.authors      = { "Joel Turnbull" => "joelbywan@gmail.com", "Peter Kananen" => "peter@gaslight.co" }
   s.source       = { :git => "https://github.com/joelturnbull/WKTParser.git", :tag => "0.0.1" }
   s.platform     = :ios, '5.0'
