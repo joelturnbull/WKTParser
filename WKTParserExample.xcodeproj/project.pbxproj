@@ -27,6 +27,16 @@
 		9D498CBB04214D35914E4B44 /* libPods-WKTParserTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 234921258013433DADB4A692 /* libPods-WKTParserTest.a */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		42F120D116D19955000E7B03 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 42C1255816CD78E800F0AAEF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42C1256016CD78E800F0AAEF;
+			remoteInfo = WKTParserExample;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		234921258013433DADB4A692 /* libPods-WKTParserTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-WKTParserTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42C1256116CD78E800F0AAEF /* WKTParserExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WKTParserExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -204,6 +214,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				42F120D216D19955000E7B03 /* PBXTargetDependency */,
 			);
 			name = WKTParserTest;
 			productName = WKTParserTest;
@@ -310,6 +321,14 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		42F120D216D19955000E7B03 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42C1256016CD78E800F0AAEF /* WKTParserExample */;
+			targetProxy = 42F120D116D19955000E7B03 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		42C1256E16CD78E800F0AAEF /* InfoPlist.strings */ = {
@@ -420,6 +439,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				MACOSX_DEPLOYMENT_TARGET = 10.4;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
@@ -439,6 +459,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				MACOSX_DEPLOYMENT_TARGET = 10.4;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
