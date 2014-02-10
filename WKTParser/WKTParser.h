@@ -7,9 +7,14 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <MapKit/MapKit.h>
 
 @interface WKTParser : NSObject
 
-+(NSArray*)polygonsForWkt:(NSString*)wkt;
+// WKT POLYGON/MULTIPOLYGON Parsing
++(NSArray *)polygonsForWkt:(NSString *)wkt;
+
+// WKT POINT Parsing
++(CLLocationCoordinate2D)locationForWktPoint:(NSString *)location;
 
 @end
